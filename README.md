@@ -4,7 +4,7 @@
 + **Chụp ảnh** bằng camera thiết bị
 + **Lưu trữ ảnh** cục bộ trên thiết bị
 + **Hiển thị ảnh dạng gallery** kèm tiêu đề.
-+ **Hiển thị ảnh dạng gallery** kèm tiêu đề.
++ **Xem chi tiết** một ảnh trong bộ sưu tập.
 
 ## Kết quả thực hiện
 + <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/41d035dd-950f-458b-8bda-418a8763a0ba" />
